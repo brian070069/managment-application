@@ -15,7 +15,7 @@ export default {
         "main-bg": "#20232A",
         "main-dark-bg": "#20232A",
         "secondary-dark-bg": "#33373E",
-        "light-gray": "#F7F7F7",
+        "light-gray": "#33373E",
         "half-transparent": "rgba(0, 0, 0, 0.5)",
       },
       borderWidth: {
